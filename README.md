@@ -1,4 +1,4 @@
-Single Page Application for the ADK Company Services.
+REACT Single Page Application for the ADK Company Services.
 
 
 Commands on terminal:
