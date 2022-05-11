@@ -129,7 +129,7 @@ export function BannerDownNav() {
           <SpanAskTeam>
             <h1>Serviços técnicos especializados em</h1>
             <h1> equipamentos de solda robotizada.</h1>
-            <AskTeamButton href="https://web.whatsapp.com/send?phone=55549676-7579" target="_blank">
+            <AskTeamButton href="https://wa.me/555496767579" target="_blank">
               <AskTeamButtonDiv >Tire sua Dúvida</AskTeamButtonDiv>
             </AskTeamButton>
           </SpanAskTeam>
