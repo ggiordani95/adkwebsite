@@ -303,7 +303,7 @@ export function ServicesBanner(props) {
         {ServicesData.map((props) => {
           return (
             <Services>
-              <ButtonService href="https://web.whatsapp.com/send?phone=55549676-7579" target="_blank">SOLICITAR ORÇAMENTO</ButtonService>
+              <ButtonService href="https://wa.me/555496767579" target="_blank">SOLICITAR ORÇAMENTO</ButtonService>
               <i class={props.icon} />
               <h2>{props.itemname}</h2>
               <p>{props.textitem}</p>

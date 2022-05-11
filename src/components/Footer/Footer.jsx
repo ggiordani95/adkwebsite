@@ -202,7 +202,7 @@ export function Footer() {
             <a href="#">
                 <i class="fa-brands fa-whatsapp"></i>
               </a>
-              <a href="https://web.whatsapp.com/send?phone=55549676-7579" target="_blank">
+              <a href="https://wa.me/555496767579" target="_blank">
               <i class="fa-solid fa-envelope"></i>
               </a>
               
